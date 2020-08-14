@@ -1,16 +1,22 @@
-It's me, Tierney!
+# Hardik Pithva's Card
 
-# Usage
+It's me, Hardik!
 
-## npm
-```
-npx bitandbang
-```
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hardikpthv/hardikpthv-card/blob/master/LICENSE)
+[![npm version](https://badge.fury.io/js/%40hardikpthv%2Fcard.svg)](https://www.npmjs.com/package/@hardikpthv/card)
 
-## GitHub Package Registry
-Assuming you have the GitHub registry set up, you can use via npx:
-```
-npx @bnb/card
+## Usage
+
+Via npx:
+
+```bash
+npx @hardikpthv/card
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+
+## Credits
+
+Forked from Tierney Cyren's https://github.com/bnb/bitandbang
+
+![Card](card.png)

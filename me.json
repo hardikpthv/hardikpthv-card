@@ -1,0 +1,16 @@
+{
+  "name": "Hardik Pithva /",
+  "handle": "@hardikpthv",
+  "work": "Frontend Engineer",
+  "twitter": "https://twitter.com/hardikpthv",
+  "github": "https://github.com/hardikpthv",
+  "linkedIn": "https://linkedin.com/in/hardikpthv",
+  "web": "https://hardikpthv.github.io",
+  "npx": "npx @hardikpthv/card",
+  "labelWork": "      Work:",
+  "labelTwitter": "   Twitter:",
+  "labelGitHub": "    GitHub:",
+  "labelLinkedIn": "  LinkedIn:",
+  "labelWeb": "       Web:",
+  "labelCard": "      Card:"
+}
