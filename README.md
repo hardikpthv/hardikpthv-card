@@ -3,7 +3,7 @@
 It's me, Hardik!
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hardikpthv/hardikpthv-card/blob/master/LICENSE)
-[![npm version](https://badge.fury.io/js/%40hardikpthv%2Fcard.svg)](https://www.npmjs.com/package/@hardikpthv/card)
+[![npm version](https://badge.fury.io/js/%40hardikpthv%2Fcard.svg)](https://badge.fury.io/js/%40hardikpthv%2Fcard)
 
 ## Usage
 

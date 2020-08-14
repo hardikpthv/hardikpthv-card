@@ -44,8 +44,5 @@
     "chalk": "^4.1.0",
     "chalk-animation": "^1.6.0",
     "gradient-string": "^1.2.0"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
