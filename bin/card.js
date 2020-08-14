@@ -5,7 +5,7 @@ const boxen = require('boxen');
 const chalk = require('chalk');
 const chalkAnimation = require('chalk-animation');
 const gradient = require('gradient-string');
-const me = require('./me.json');
+const me = require('./../me.json');
 
 const stallion = console;
 const cardOptions = {

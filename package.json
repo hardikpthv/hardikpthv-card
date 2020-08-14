@@ -28,7 +28,8 @@
   "license": "MIT",
   "files": [
     "bin/card.js",
-    "bin/output"
+    "bin/output",
+    "me.json"
   ],
   "devDependencies": {
     "eslint": "^7.6.0",
